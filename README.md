@@ -4,6 +4,8 @@ My name is Mateusz, I am a 3rd year Computer Science student at Cracow Universit
 # About Me
 - 🌱 I’m currently learning: MERN Stack
 - ✨ Hobbies: 3D Printing, Electronics, DIY Smart Devices, Reading, Traveling
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swistakmateusz/)
 <!--
 **swistakmatt/swistakmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
