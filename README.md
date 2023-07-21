@@ -1,9 +1,9 @@
 # Hi there 👋
-My name is Mateusz, I am a 3rd year Computer Science student at Cracow University of Technology.
+My name is Mateusz, I am a 4rd year Computer Science student at Cracow University of Technology.
 
 # About Me
 - 🔭 I’m currently working on my engineering thesis
-- 🌱 I’m learning: Next.js
+- 🌱 I’m learning: Angular and Django
 - ✨ Hobbies: 3D Printing, Electronics, DIY Smart Devices, Reading, Traveling
 
 ## Tech Stack
