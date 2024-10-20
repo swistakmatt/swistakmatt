@@ -1,10 +1,9 @@
 # Hi there 👋
-My name is Mateusz, I am a 4rd year Computer Science student at Cracow University of Technology.
+My name is Mateusz, I am a Computer Science bachelor graduate at Cracow University of Technology.
 
 # About Me
-- 🔭 I’m currently working on my engineering thesis
-- 🌱 I’m learning: Angular and Django
-- ✨ Hobbies: 3D Printing, Electronics, DIY Smart Devices, Reading, Traveling
+- 🔭 Currently working as Junior Software Developer in Comarch S.A.
+- ✨ Hobbies: 3D Printing, Electronics, DIY Smart Devices, Reading and Traveling
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
